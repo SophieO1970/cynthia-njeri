@@ -11,3 +11,8 @@ p{
     font-size: large;
     font-family: sans-serif; 
 }
+img{
+    display: flex;
+    padding: 5px;
+    margin-top: 2px;
+}
